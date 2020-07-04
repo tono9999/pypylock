@@ -3,3 +3,4 @@ kindori!!
 branch test
 trading
 kikiki
+kikurage
