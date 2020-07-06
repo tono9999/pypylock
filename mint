@@ -1,5 +1,4 @@
 kokoko
 kilooo
 hou
-popopo
-koooo
+ktoro
